@@ -1,0 +1,7 @@
+:root{
+    --darklight: dark;
+}
+
+body{
+    background-color: var(--darklight);
+}
